@@ -1,15 +1,15 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Tushar+Ranjan;Software+Developer;Frontend+Developer;Team+Leader;AI-ML+Enthusiast"></p>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Kuber+Gaur;Team+Leader;AI-ML+Enthusiast"></p>
 
-<h3 align="center"> AI-ML Researcher | CSE (AIML) Final Year, Batch of 2022-26 </h3>
+<h3 align="center"> DATA SCIENCE ENTHUSIAST |  </h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Tushar00012/Tushar00012/assets/coding.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/percyakr2011/percyakr2011/assets/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tushar00012&label=Profile%20views&color=0e75b6&style=flat" alt="Tushar-Ranjan" width="150"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=percyakr2011&label=Profile%20views&color=0e75b6&style=flat" alt="Kuber-Gaur" width="150"/> </p>
 
 - 🔭 **Currently working on:** Real-time AI-ML systems for Healthcare, Environmental Monitoring, and Misinformation Detection  
 - 🌱 **Learning:** Deep Learning, Cloud Integration (Firebase/GCP), Generative AI, Full Stack Development  
-- 📫 **Reach me at:** tusharranjan151@gmail.com  
+- 📫 **Reach me at:** Kuber.gaur2011@gmail.com  
 - ⚡ **Fun fact:** I love building AI projects that solve real-world problems—tech with impact is my mantra! 🌍🤖  
 
 
@@ -17,7 +17,7 @@
 
 ## 💻 **Technical Skills**
 ```javascript
-const Tushar Ranjan = {
+const KuberGaur = {
   Pronouns: "He" | "Him",
   Languages: ["C", "C++", "Python", "Java", "MySQL", "HTML", "CSS"],
   Frameworks: ["OpenCV", "Scikit-Learn", "Flask", "Firebase"],
@@ -28,15 +28,6 @@ const Tushar Ranjan = {
 
 ---
 
-## 🎓 **Education** 
-<!-- START_SECTION:blog -->
-| Qualification | Studied at | Institute | Year of Study | Percentage |
-| :-: | :---: | :----: | :--: | :--: |
-| B.Tech CSE-AIML | G. L. Bajaj Institute of Tech. and Mgmt. | AKTU | 2022 - 2026 | 8.6 CGPA |
-| Intermediate | Adarsh Public School Noida | CBSE | 2020 - 2021 | 95.6% |
-| High School | Cambridge School Noida | CBSE | 2018 - 2019 | 93.4% |
-<!-- END_SECTION:blog -->
----
 
 ## 🏆 **Achievements**
 - 🏆 **Winner:** Bharat Shiksha Expo Hackathon 2024
@@ -49,8 +40,8 @@ const Tushar Ranjan = {
 <br>
 
 <p align="left"> 
-  <a href="https://leetcode.com/tushar_ranjan/" target="_blank"> <img alt="LeetCode" width="125" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/tusharra1bfh/?_gl=1*1o6korq*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwx8nCBhAwEiwA_z__06KZ1g2BrqfInknmT65c5VpkYu5miUmkgHV_ItP34mLloomxFh_l3RoChKUQAvD_BwE&gbraid=0AAAAAC9yBkB5DvBFHGG1VafALQxOtwWtX" target="_blank"> <img alt="gfg" width="125" src="https://img.shields.io/badge/GeeksforGeeks-%232C3454.svg?logo=GeeksforGeeks&logoColor=green"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/Kuber_Gaur/" target="_blank"> <img alt="LeetCode" width="125" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/Kuberra1bfh/?_gl=1*1o6korq*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwx8nCBhAwEiwA_z__06KZ1g2BrqfInknmT65c5VpkYu5miUmkgHV_ItP34mLloomxFh_l3RoChKUQAvD_BwE&gbraid=0AAAAAC9yBkB5DvBFHGG1VafALQxOtwWtX" target="_blank"> <img alt="gfg" width="125" src="https://img.shields.io/badge/GeeksforGeeks-%232C3454.svg?logo=GeeksforGeeks&logoColor=green"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 </p>
 
@@ -63,18 +54,6 @@ const Tushar Ranjan = {
 > Technologies: Python, Streamlit, Gemini API, MySQL, Google-translator.
 
 > AI-powered query resolution system that efficiently processes user queries using NLP and database integration, providing real-time, accurate and context-aware SQL queries.
-
-
-### 🔹 MedQ: Hospitals at Your Fingertips  
-> Technologies: Flutter, Firebase, Google Maps API, Flask, Python.
-
-> Real-time bed availability, OPD registration, and predictive inventory alerts reducing patient wait time by 30%.  
-
-
-### 🔹 Social Guard: 
-> Technologies: Python, Streamlit, API, LLaMA 3 8B, BeautifulSoup, Scikit-learn.
-
-> Developed Social Guard, a forensic tool to detect and mitigate misinformation on platforms like YouTube and News using APIs, machine learning, and web scraping.
 
 
 ### 🔹 Face Authentication Security System  
@@ -190,18 +169,17 @@ const Tushar Ranjan = {
 
 ## 🌐 **Connect With Me**
 <p align="left">
-<a href="https://www.linkedin.com/in/tushar-ranjan-4186a8179/"><img alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-<a href="https://github.com/Tushar00012"><img alt="GitHub" width="40px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/tushar_ranjan/"><img alt="LeetCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:tusharranjan151@gmail.com"><img alt="Gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kuber-gaur-93757025b/"><img alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+<a href="https://github.com/percyakr2011"><img alt="GitHub" width="40px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:Kuber.Gaur2011@gmail.com"><img alt="Gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 <p align="center">
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=Tushar00012&show_icons=true&locale=en&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="tushar" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar00012&theme=blueberry&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="370"/>
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=percyakr2011&show_icons=true&locale=en&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kuber" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=percyakr2011&theme=blueberry&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="370"/>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
